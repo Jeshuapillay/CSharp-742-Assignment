@@ -1,0 +1,15 @@
+C:\Users\Pillays\Desktop\CsharpQ2\bin\Debug\net6.0\CsharpQ2.exe
+C:\Users\Pillays\Desktop\CsharpQ2\bin\Debug\net6.0\CsharpQ2.deps.json
+C:\Users\Pillays\Desktop\CsharpQ2\bin\Debug\net6.0\CsharpQ2.runtimeconfig.json
+C:\Users\Pillays\Desktop\CsharpQ2\bin\Debug\net6.0\CsharpQ2.dll
+C:\Users\Pillays\Desktop\CsharpQ2\bin\Debug\net6.0\CsharpQ2.pdb
+C:\Users\Pillays\Desktop\CsharpQ2\obj\Debug\net6.0\CsharpQ2.csproj.AssemblyReference.cache
+C:\Users\Pillays\Desktop\CsharpQ2\obj\Debug\net6.0\CsharpQ2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pillays\Desktop\CsharpQ2\obj\Debug\net6.0\CsharpQ2.AssemblyInfoInputs.cache
+C:\Users\Pillays\Desktop\CsharpQ2\obj\Debug\net6.0\CsharpQ2.AssemblyInfo.cs
+C:\Users\Pillays\Desktop\CsharpQ2\obj\Debug\net6.0\CsharpQ2.csproj.CoreCompileInputs.cache
+C:\Users\Pillays\Desktop\CsharpQ2\obj\Debug\net6.0\CsharpQ2.dll
+C:\Users\Pillays\Desktop\CsharpQ2\obj\Debug\net6.0\refint\CsharpQ2.dll
+C:\Users\Pillays\Desktop\CsharpQ2\obj\Debug\net6.0\CsharpQ2.pdb
+C:\Users\Pillays\Desktop\CsharpQ2\obj\Debug\net6.0\CsharpQ2.genruntimeconfig.cache
+C:\Users\Pillays\Desktop\CsharpQ2\obj\Debug\net6.0\ref\CsharpQ2.dll

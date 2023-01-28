@@ -1,0 +1,15 @@
+C:\Users\Pillays\Desktop\CsharpQ1\bin\Debug\net6.0\CsharpQ1.exe
+C:\Users\Pillays\Desktop\CsharpQ1\bin\Debug\net6.0\CsharpQ1.deps.json
+C:\Users\Pillays\Desktop\CsharpQ1\bin\Debug\net6.0\CsharpQ1.runtimeconfig.json
+C:\Users\Pillays\Desktop\CsharpQ1\bin\Debug\net6.0\CsharpQ1.dll
+C:\Users\Pillays\Desktop\CsharpQ1\bin\Debug\net6.0\CsharpQ1.pdb
+C:\Users\Pillays\Desktop\CsharpQ1\obj\Debug\net6.0\CsharpQ1.csproj.AssemblyReference.cache
+C:\Users\Pillays\Desktop\CsharpQ1\obj\Debug\net6.0\CsharpQ1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pillays\Desktop\CsharpQ1\obj\Debug\net6.0\CsharpQ1.AssemblyInfoInputs.cache
+C:\Users\Pillays\Desktop\CsharpQ1\obj\Debug\net6.0\CsharpQ1.AssemblyInfo.cs
+C:\Users\Pillays\Desktop\CsharpQ1\obj\Debug\net6.0\CsharpQ1.csproj.CoreCompileInputs.cache
+C:\Users\Pillays\Desktop\CsharpQ1\obj\Debug\net6.0\CsharpQ1.dll
+C:\Users\Pillays\Desktop\CsharpQ1\obj\Debug\net6.0\refint\CsharpQ1.dll
+C:\Users\Pillays\Desktop\CsharpQ1\obj\Debug\net6.0\CsharpQ1.pdb
+C:\Users\Pillays\Desktop\CsharpQ1\obj\Debug\net6.0\CsharpQ1.genruntimeconfig.cache
+C:\Users\Pillays\Desktop\CsharpQ1\obj\Debug\net6.0\ref\CsharpQ1.dll
